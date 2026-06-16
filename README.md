@@ -7,8 +7,8 @@ HOW TO USE:
 -- As simple as that --
 
 BUILT NOTE
-v0.1 - BETA testing of the prototype
-v1.1 - Add on study time and practice option
-v1.2 - Terminal language option (JA and ENG)
-v1.3 - Add on study mode (price tags, time, dates, integers)
+- v0.1 - BETA testing of the prototype
+- v1.1 - Add on study time and practice option
+- v1.2 - Terminal language option (JA and ENG)
+- v1.3 - Add on study mode (price tags, time, dates, integers)
 
