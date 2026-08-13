@@ -12,4 +12,5 @@ BUILT NOTES
 - v1.0 - update on summary stats + figure, add on save figure with study date and duration
 - v1.1 - fix on broken graph, more dates and price range
 - v2.0 - deploy on streamlit
+- v2.1 - add study time and delete quit button on the sidebar + increase date range from 1900 to 2030 and increase price range up to 500.000 yen
 
