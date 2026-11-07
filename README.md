@@ -13,4 +13,4 @@ BUILT NOTES
 - v1.1 - fix on broken graph, more dates and price range
 - v2.0 - deploy on streamlit
 - v2.1 - add study time and delete quit button on the sidebar + increase date range from 1900 to 2030 and increase price range up to 500.000 yen
-
+- V2.2 - Increase date from 1800-2030, increase price range from 50-900000, add release note under time (sidebar)
